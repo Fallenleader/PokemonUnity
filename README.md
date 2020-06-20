@@ -7,6 +7,10 @@
   </p>
 </p>
 
+## Repo Clone Notes ##
+
+This is a cloned repo of Herbert's framework designed to push more Unity frontend changes in preperation for example projects. Initially it will be limited in nature, but the goal is to get a foundation to build from with the essentials provided to the user on the frontend to minimalize the imapct of C# and the steep learning curve Unity has. This in theory will prevent users from building crappy flips with the excuse of "there was no examples" as well as provide the foundation for my own projects. This alternative repo is not intended to be used in place of Herbert's, but rather to aid his project, which in return helps mine.
+
 ## Summary 
  
 Pokémon Framework is a framework written in C-Sharp and designed to be built on top of, as a foundation and key component in any Pokémon remake or emulator. Because the project is so loosely coupled from any frontend component, it allows for the project to easily migrate between any engine or platform that's C# compatible (i.e. Unity3d, Websites/ASP.Net, or even commandline console, as a text based Pokémon battle simulator).
